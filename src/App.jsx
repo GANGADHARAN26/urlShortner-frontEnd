@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
 import UrlRegister from './pages/urlPages/UrlRegister'
-import ShortUrlPage from './pages/urlPages/shortUrlPage'
+import ShortUrlPage from './pages/urlPages/ShortUrlPage'
 import Register from './pages/userPages/Register'
 import Login from './pages/userPages/Login'
 import Verification from './pages/userPages/Verification'
