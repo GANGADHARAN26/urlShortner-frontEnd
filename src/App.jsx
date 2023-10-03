@@ -20,7 +20,7 @@ function App() {
 
       <Route  path='/' element={<Register/>}/>
       <Route path='/login' element={<Login/>}/>
-      <Route path='/shortUrl/:urlId' element={<ShortUrlPage/>}/>
+      <Route path='/shortUrl' element={<ShortUrlPage/>}/>
       <Route path='/verify' element={<Verification/>}/>
       <Route path='/info' element={<Info/>}/>
       <Route path='/forgot' element={<ForgotPassword/>}/>
